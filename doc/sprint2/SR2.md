@@ -5,12 +5,12 @@ Sprint 2 SR2
 
 2. Participants
    Team Members:
-   Zuhaib Khan
-   Nargis Rafie
-   Helena Kamali
-   Karim He
-   Ajwad Saghir
-   Notetaker: Helena Kamali
+   Z
+   N
+   H
+   K
+   A
+   Notetaker: H
 
 3. User Stories
    i. As a small clinic , we want to be able to look into products through categories so that it saves us time and helps us browse efficiently.
@@ -19,18 +19,18 @@ Sprint 2 SR2
    iv. As a small hospital we want reliable add to cart features so that we do not make a mistake while ordering in Bulk.
 
 4. Task Assignment
-   User Story 1, Create category filter which will be implemented by Nargis .
+   User Story 1, Create category filter which will be implemented by n .
    User Story 2, Implement the Search bar UI and algorithm which will be implemented by Zuhaib.
-   User story 3, Create review feature which will be implemented by Helena along with Ajwad.
-   User Story 4, Improve the existing add to cart feature which will be done by Karim.
+   User story 3, Create review feature which will be implemented by h along with a.
+   User Story 4, Improve the existing add to cart feature which will be done by k.
 
 5. Sprint record
    Team member in the meeting present.
    Zuhaib Khan
-   Nargis Rafie
-   Helena Kamali
-   Karim He
-   Ajwad Saghir
+   n
+   h
+   k
+   a
 
 6. Sprint Retrospective
 

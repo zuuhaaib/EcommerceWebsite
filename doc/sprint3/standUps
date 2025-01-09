@@ -1,15 +1,15 @@
-[28th November] - Sprint 3 Standup 1 Notes by Karim
+[28th November] - Sprint 3 Standup 1 Notes by k
 
 1. What did you work on since the last stand up?
 We went through the Sprint 3 handout and the grading rubric to see what was required for each member to complete and to what extent. 
 We were very eager to review if we fixed our Sprint 1 mistakes on our Sprint 2 but we did not get any marks or feedback by this time so we are sticking to the last format we used.
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
 
 2. What do you commit to next?
 Zuihab started to work on the search feature for the website.
-Nargis kept on working on the category feature for the website.
-Ajwad, Helena and me got assigned to work on the documentations and Trello.
+n kept on working on the category feature for the website.
+a, h and me got assigned to work on the documentations and Trello.
 I also got assigned to merging the add-to-cart feature into the main code.
 
 
@@ -19,13 +19,13 @@ All of the features implementations should be done by the Saturday so that we ha
 4. Do you have any blockers?
 None big blockers other than some personal time management issues with other coursework.
 
-[30th November] - Sprint 3 Standup 2 Notes by Karim
+[30th November] - Sprint 3 Standup 2 Notes by k
 
 1. What did you work on since the last stand up?
-I finished merging the add-to-cart feature into the copy of the main branch. The feature now has better and more smooth interface, with images, that it used to had before. I also helped Nargis with the diagrams.
+I finished merging the add-to-cart feature into the copy of the main branch. The feature now has better and more smooth interface, with images, that it used to had before. I also helped n with the diagrams.
 
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
 
 2. What do you commit to next?
 Since all of the merging was done on a copy of main branch, we still need to merge all of the features into the original main branch.
@@ -41,16 +41,16 @@ We came across a big blocker since the main branch code was updated significantl
 
 
 
-[1st December] - Sprint 3 Standup 3 Notes by Karim
+[1st December] - Sprint 3 Standup 3 Notes by k
 
 1. What did you work on since the last stand up?
-Zuhaib and Nargis succesfully added the filter and search feature and the category feature to our website. 
-Ajwad worked on burndown chart, SR3, and product backlog.
-Helena completed the Trello update and added the new branches.
+Zuhaib and n succesfully added the filter and search feature and the category feature to our website. 
+a worked on burndown chart, SR3, and product backlog.
+h completed the Trello update and added the new branches.
 I updated the Trello and fortunately, with the help of Zuihab, we were able to finally merge the add cart feature into the main code.
 
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
 
 2. What do you commit to next?
 After we finish merging all branches, we will do the demo recording and submit all standup notes together with the documentations. 
@@ -61,19 +61,19 @@ We should be finishing before the midnight deadline.
 4. Do you have any blockers?
 No blockers at all.
 
-[28th November] - Sprint 3 Standup 1 Notes by Helena
+[28th November] - Sprint 3 Standup 1 Notes by h
 
 1. What did you work on since the last stand up?
    We had gone through the sprint 2,3 handout individually prior to our meeting and figured out what we are supposed to deliver at the end of the sprint.
    each person had taken couple of features in mind so we could discuss about them in the meeting and choose the best out of them.
 
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
 
 2. What do you commit to next?
    We agreed on the features that we are going to implement and we splitted them between all the team members.
-   Nargis is going to continue on the category feature as was not done in previouse sprint due to her sickness
-   I,Karim,Ajwad are going to work on documentations and trello trachings
+   n is going to continue on the category feature as was not done in previouse sprint due to her sickness
+   I,k,a are going to work on documentations and trello trachings
    Zuhaib is going to work on search filter feature
   
 
@@ -86,17 +86,17 @@ participants: Zuhaib, Karim, Helena, Nargis, Ajwad
 4. Do you have any blockers?
    So far no blockers in the first standup and everyone should be able to get things done by our next stand up with no issue.
 
-[30th November] - Sprint 3 Standup 2 Notes by Helena
+[30th November] - Sprint 3 Standup 2 Notes by h
 
 1. What did you work on since the last stand up?
-  Nargis started on Software Design Architecture. 
-  Karim and Zuhaib tried solving the issue with creating branch and pushing the changes of the add-to-cart feature.
+  n started on Software Design Architecture. 
+  k and Zuhaib tried solving the issue with creating branch and pushing the changes of the add-to-cart feature.
   I created the documentation branch for sprint 3 and the pull request for it
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
 
 2. What do you commit to next?
-   Nargis is going to finish the category feature and make it work as expected
+   n is going to finish the category feature and make it work as expected
    the implementation for new features shoulb de done by tmrw and most of the documentations.
    we should meet for demo tmrw.
   
@@ -109,13 +109,13 @@ participants: Zuhaib, Karim, Helena, Nargis, Ajwad
 4. Do you have any blockers?
    So far no blockers in the first standup and everyone should be able to get things done by our next stand up with no issue.
 
-[1st December] - Sprint 3 Standup 3 Notes by Helena
+[1st December] - Sprint 3 Standup 3 Notes by h
 
 1. What did you work on since the last stand up?
   Implementations are done 
   Trello tracking is done mostly just some minor changes needed
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
 
 2. What do you commit to next?
    have to complete the remaining documentations by midnight and check rubric to make sure we do have all needed criterias for our sprint. 
@@ -129,18 +129,18 @@ participants: Zuhaib, Karim, Helena, Nargis, Ajwad
    So far no blockers in the first standup and everyone should be able to get things done by our next stand up with no issue.
 
 
-[28th November] - Sprint 3 Standup 1 Notes by Nargis
+[28th November] - Sprint 3 Standup 1 Notes by n
 
 1. What did you work on since the last stand up?
    We had gone through the sprint 2 handout individually prior to our meeting and figured out what we are supposed to deliver at the end of the sprint.
    each person had taken couple of features in mind so we could discuss about them in the meeting and choose the best feature for this sprint.
 
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
 
 2. What do you commit to next?
    We agreed on the features that we are going to implement and we splitted them between all the team members.
-   Helena, Karim, Ajwad are going to work on documentations and trello tracking.
+   h, k, a are going to work on documentations and trello tracking.
    I am going to continue on the category feature as was not done in previouse sprint due to my sickness.
    Zuhaib is going to work on search filter feature for the website.
    
@@ -155,14 +155,14 @@ participants: Zuhaib, Karim, Helena, Nargis, Ajwad
    We do not blockers in the first standup and everyone should be able to get things done by our next stand up without any issues.
 
 
-[30th November] - Sprint 3 Standup 2 Notes by Nargis
+[30th November] - Sprint 3 Standup 2 Notes by n
 
 1. What did you work on since the last stand up?
    We reported our progress to the each other. I completed the Software Design Architecture. 
-   Karim and Zuhaib worked on solving the issue with creating branch and pushing the changes of the add-to-cart feature.
+   k and Zuhaib worked on solving the issue with creating branch and pushing the changes of the add-to-cart feature.
 
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis
+participants: Zuhaib, k, h, n
 
 2. What do you commit to next?
    We agreed to meet tomorrow evening expecting to have implemented the features and completed the documentations.
@@ -177,16 +177,16 @@ participants: Zuhaib, Karim, Helena, Nargis
 4. Do you have any blockers?
    So far no blockers in the second standup and everyone should be able to get things done by our next stand up with no issue.
 
-[1st December] - Sprint 3 Standup 3 Notes by Nargis
+[1st December] - Sprint 3 Standup 3 Notes by n
 
 1. What did you work on since the last stand up?
    I updated the layout and design of the project and added the categories features for the products on our ecommerce site. 
    Zuhaib added the filter and search feature to our website. 
-   Helena completed the trello update and added the new branches.
-   Ajwad worked on burndown chart, SR3, and product backlog.
+   h completed the trello update and added the new branches.
+   a worked on burndown chart, SR3, and product backlog.
    
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
    
 2. What do you commit to next?
    We will complate the demo recording. Submit our standups to discord. 
@@ -204,11 +204,11 @@ participants: Zuhaib, Karim, Helena, Nargis, Ajwad
    We went over the Sprint3 handout and brainstormed which features we will be working on for sprint 3.
    
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
    
 2. What do you commit to next?
-   We outlined the features to be implemented and split the work between team members. Nargis will be working on the category feature,
-   I have taken up the filter search/ sort-by feature, Helena, Karim and Ajwad will be working on the documentation stuff and Karim will
+   We outlined the features to be implemented and split the work between team members. n will be working on the category feature,
+   I have taken up the filter search/ sort-by feature, h, k and a will be working on the documentation stuff and k will
    additionally merge the add to cart feature with the main branch.
      
 3. When do you think you will be done?
@@ -223,16 +223,16 @@ participants: Zuhaib, Karim, Helena, Nargis, Ajwad
 [30th November] - Sprint 3 Standup 2 Notes by Zuhaib
 
 1. What did you work on since the last stand up?
-   Since the last stand-up, I have completed the filter search feature. Nargis completed the system design document and pushed it to the doc branch. 
-   Helena and Ajwad are currently working on Trello and the finalizing the rest of the documentation. Karim was having trouble with merging the cart 
+   Since the last stand-up, I have completed the filter search feature. n completed the system design document and pushed it to the doc branch. 
+   h and a are currently working on Trello and the finalizing the rest of the documentation. k was having trouble with merging the cart 
    feature with the main branch be resolved it together during the meeting.
    
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
    
 2. What do you commit to next?
    We will complete the implementation of the features by tomorrow evening and meetup for the demo. Additionally, we should be done with the 
-   documentation stuff tonight. I will submit a pull request tonight after making a few final adjustments for the filter search feature. Nargis 
+   documentation stuff tonight. I will submit a pull request tonight after making a few final adjustments for the filter search feature. n 
    will be completing the category feature.
      
 3. When do you think you will be done?
@@ -249,7 +249,7 @@ participants: Zuhaib, Karim, Helena, Nargis, Ajwad
   the implementations are complete, and Trello tracking is nearly finalized, with only a few minor updates needed. 
 
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
 
 2. What do you commit to next?
    Finish the remaining documentation by midnight and cross-check the rubric to ensure all 
@@ -262,19 +262,19 @@ participants: Zuhaib, Karim, Helena, Nargis, Ajwad
 4. Do you have any blockers?
    Currently, there are no challenges, and everyone is expected to complete their tasks smoothly.
 
-[28th November] - Sprint 3 Standup 1 Notes by Ajwad 
+[28th November] - Sprint 3 Standup 1 Notes by a 
 
 1. What did you work on since the last stand up?
 We wrapped up sprint 2 and I went over the sprint 3 notes.
 
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
 
 2. What do you commit to next?
    We agreed on the features that we are going to implement and we splitted them between all the team members.
    Zuhaib is going to work on search filter feature
-   Nargis is going to work on the category feature.
-   Helena,Karim,I are going to work on documentations and trello trackings
+   n is going to work on the category feature.
+   h,k,I are going to work on documentations and trello trackings
 
   
 
@@ -285,18 +285,18 @@ participants: Zuhaib, Karim, Helena, Nargis, Ajwad
    So far no blockers in the first standup and everyone should be able to get things done by our next stand up with no issue.
 
    
-[30th November] - Sprint 3 Standup 2 Notes by Ajwad
+[30th November] - Sprint 3 Standup 2 Notes by a
 
 1. What did you work on since the last stand up?
-  Nargis started on Software Design Architecture. 
-  Karim and Zuhaib tried solving the issue with creating branch and pushing the changes of the add-to-cart feature.
-  Helena created the documentation branch for sprint 3 and the pull request for it
+  n started on Software Design Architecture. 
+  k and Zuhaib tried solving the issue with creating branch and pushing the changes of the add-to-cart feature.
+  h created the documentation branch for sprint 3 and the pull request for it
 I created the schedule and Sprint 3. Working on the rest of the document 
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
 
 2. What do you commit to next?
-   Nargis is going to finish the category feature and make it work as expected
+   n is going to finish the category feature and make it work as expected
    I will commit to sr3 and the rest of the documents.
 
 3. When do you think you will be done?
@@ -308,14 +308,14 @@ participants: Zuhaib, Karim, Helena, Nargis, Ajwad
    So far no blockers in the first standup and everyone should be able to get things done by our next stand up with no issue.
 
 
-[1st December] - Sprint 3 Standup 3 Notes by Ajwad
+[1st December] - Sprint 3 Standup 3 Notes by a
 
 1. What did you work on since the last stand up?
-  Implementations are done by Zuhaib and Helena
+  Implementations are done by Zuhaib and h
   Trello tracking is done mostly just some minor changes needed
  I completed sprint 3 and rest of the documentations
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, n, a
 
 2. What do you commit to next?
    I need to complete sr3 by tonight 

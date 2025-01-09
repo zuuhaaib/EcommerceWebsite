@@ -10,10 +10,10 @@ Sprint 2 Planning Meeting (Sprint2.md)
 2. Participants
    The following team members attended the Sprint 2 planning meeting:
    Zuhaib Khan
-   Karim He
-   Helena Kamali (Notetaker)
-   Nargis Rafie
-   Ajwad Saghir
+   k He
+   h (Notetaker)
+   n
+   a
 
 3. Team Capacity
    Total Capacity: 5 members
@@ -30,7 +30,7 @@ Sprint 2 Planning Meeting (Sprint2.md)
    Description: Research best practices for implementing category filters in a dynamic product database.
    Purpose: To identify whether static category lists or dynamically generated filters (based on product tags) are more
    efficient.
-   Assigned To: Nargis Rafie
+   Assigned To: r
    Expected Outcome: Document the decision and create a strategy for implementing the category filter.
 
 5. User Stories
@@ -40,7 +40,7 @@ Sprint 2 Planning Meeting (Sprint2.md)
    As a small hospital, I want reliable add-to-cart features so that we can avoid mistakes while ordering in bulk.
 
 6. Task Breakdown and Assignments
-   User Story 1 Task : Category browsing Implement category filter Assigned To : Nargis
+   User Story 1 Task : Category browsing Implement category filter Assigned To : n
    Deadline : 17 Nov
 
 User Story 2 Task : Search functionality
@@ -49,16 +49,16 @@ Assigned to :Zuhaib
 Deadline : 17 Nov
 
 User Story 3 Task : Product reviews Design and develop review feature
-Assigned to : Helena
+Assigned to : h
 Deadline : 17 Nov
 
 User Story 4 Task : Add-to-cart improvements
 Fix and optimize add-to-cart feature
-Assigned to : Karim
+Assigned to : k
 Deadline : 17th Nov
 Task : Documentation updates
 Complete SR2 and Sprint2.md
-Assigned to :Ajwad
+Assigned to :a
 Deadline : 16th Nov
 
 7. Deadlines

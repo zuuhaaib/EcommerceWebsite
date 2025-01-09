@@ -5,7 +5,7 @@ We had gone through the sprint 1 handout individually prior to our meeting and f
 each person had taken couple of features in mind so we could discuss about them in the meeting and choose the best out of them.
 
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, N, A
 
 2. What do you commit to next?
 We agreed on the features that we are going to implement and we splitted them between all the team members and gave each part to an individual who felt it could be doable for them.
@@ -26,19 +26,19 @@ So far no blockers in the first standup and everyone should be able to get thing
 [31st October] - Sprint 1 Standup 2
 
 1. What did you work on since the last stand up?
-Nargis worked on system design doc but this documentation will change over time after adding features
-Helena managed the stand up notes and trello tracking and assigning the right amount of tasks for each individual
-Karim started working on add/remove features
-Ajwad staardet working on RPM.md / waiting to get clarifications for some parts to get it done
+N worked on system design doc but this documentation will change over time after adding features
+h managed the stand up notes and trello tracking and assigning the right amount of tasks for each individual
+K started working on add/remove features
+A staardet working on RPM.md / waiting to get clarifications for some parts to get it done
 Zuhaib started working on create account feature for the customer
 
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis, Ajwad
+participants: Zuhaib, k, h, N, A
 
 2. What do you commit to next?
-Nargis is going to write code for data description and connect to db , By Friday night
-Helena and Zuhaib are going to work on create an account,login,reset password using custoomer's email, new pass assign the pass to the existing account
-Karim is going to work on add/remove product to cart feature with Ajwad
+N is going to write code for data description and connect to db , By Friday night
+h and Zuhaib are going to work on create an account,login,reset password using custoomer's email, new pass assign the pass to the existing account
+k is going to work on add/remove product to cart feature with A
 Zuhaib get sprint1.md done
 for the frontend each part the person dealing wth backend is going to do
 
@@ -53,19 +53,19 @@ instead with this change we are all able to work on the features all together at
 [2nd October] - Sprint 1 Standup 3
 
 1. What did you work on since the last stand up?
-Nargis worked products and the descriptions for them with the connectin to each product to the db layer
-Helena started working on the forntend of the reset password and the backend of it to give the option to the user to change their password in case of them forgeting it
-Karim continued working on add/remove features
-Ajwad did working on RPM.md 
+N worked products and the descriptions for them with the connectin to each product to the db layer
+h started working on the forntend of the reset password and the backend of it to give the option to the user to change their password in case of them forgeting it
+k continued working on add/remove features
+A did working on RPM.md 
 Zuhaib got the login and register account for the user followed by it's fronten
 
 team capacity: 5
-participants: Zuhaib, Karim, Helena, Nargis
+participants: Zuhaib, k, h, N
 
 2. What do you commit to next?
-Nargis have to commit the changes and get the final changes for the product description done to make sure everything works 
-Helena and Zuhaib should make sure everything works smoothly and get it done for the demo 
-Karim is going to get add/remove product to cart feature done with Ajwad
+N have to commit the changes and get the final changes for the product description done to make sure everything works 
+h and Zuhaib should make sure everything works smoothly and get it done for the demo 
+k is going to get add/remove product to cart feature done with A
 
 3. When do you think you'll be done?
 the final changes in order to be ready for the demo and the features work as expected with no issues and errors
